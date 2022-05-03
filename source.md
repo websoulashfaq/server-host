@@ -1,1 +1,1 @@
-server hosting tutorial : https://tranquil-sierra-20496.herokuapp.com/
+server hosting tutorial : https://www.youtube.com/watch?v=lUEtzFsicJY
