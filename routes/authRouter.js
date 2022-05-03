@@ -31,5 +31,9 @@ router.post('/sent-to-eamil', sendOTPToMail)
 //Privet
 router.post('/reset-password/:id', ResetPassword)
 
+router.get("/hello", (req, res) => {
+    res.status(200).json({ success: "ok" })
+})
+
 
 export default router;
